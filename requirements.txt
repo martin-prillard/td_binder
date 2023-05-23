@@ -1,4 +1,4 @@
-networkx==2.6.3
-voila==0.3.0
-matplotlib==3.3.3
-jupyterlab>=3.1
+networkx
+voila
+matplotlib
+jupyterlab
